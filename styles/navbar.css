@@ -1,0 +1,42 @@
+.navbar-container {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 100;
+}
+
+.navbar-buttons {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-buttons a {
+    padding: 10px 6px;
+    margin: 0px 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.80);
+    font-weight: 300;
+}
+
+.navbar-buttons a.selected {
+    font-weight: 400;
+    border-bottom: 2px solid rgb(102, 197, 238);
+    color: rgb(102, 197, 238);
+}
+
+.navbar-logo {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    background-image: url("../images/LogoSanremo.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
