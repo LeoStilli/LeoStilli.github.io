@@ -97,6 +97,7 @@
 
 .events-schedule {
     text-align: center;
+    padding: 100px 0px;
 }
 
 .events-schedule h1 {
@@ -111,7 +112,7 @@
     justify-content: space-around;
     gap: 45px;
     z-index: 100;
-    padding: 30px;
+    padding: 0px 30px;
 }
 
 .event-image1 {
