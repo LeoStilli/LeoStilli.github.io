@@ -69,22 +69,6 @@
     padding-bottom: 40px;
 }
 
-.background-container {
-    height: 70%;
-}
-
-.page-content-container h1 {
-    font-size: 100px;
-}
-
-.page-module-line h2 {
-    font-size: 30px;
-}
-
-.page-wrapper {
-    height: 70%;
-}
-
 .page-module {
     width: 100%;
     height: 400px;
@@ -93,6 +77,15 @@
     justify-content: space-between;
     gap: 75px;
     z-index: 100;
+}
+
+.page-module-splitter {
+    width: 50%;
+    height: fit-content;
+}
+
+.page-module-splitter h1 {
+    margin-bottom: 10px;
 }
 
 .events-schedule {
