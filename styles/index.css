@@ -194,6 +194,26 @@
     border-radius: 5px;
 }
 
+.event-image8 {
+    background-image: url("../images/Coffee.avif");
+    width: 100%;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.event-image9 {
+    background-image: url("../images/CocktailHour.avif");
+    width: 100%;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
 .event-text {
     color: white;
     text-align: center;
