@@ -274,6 +274,26 @@
     border-radius: 5px;
 }
 
+.event-image16 {
+    background-image: url("../images/Book.avif");
+    width: 100%;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.event-image17 {
+    background-image: url("../images/Ballroom.avif");
+    width: 100%;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
 .event-text {
     color: white;
     text-align: center;
