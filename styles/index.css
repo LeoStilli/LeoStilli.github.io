@@ -324,6 +324,36 @@
     border-radius: 5px;
 }
 
+.event-image21 {
+    background-image: url("../images/life.jpg");
+    width: 100%;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.event-image22 {
+    background-image: url("../images/genoa.jpeg");
+    width: 100%;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.event-image23 {
+    background-image: url("../images/Artemisia.png");
+    width: 100%;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
 .event-text {
     color: white;
     text-align: center;
