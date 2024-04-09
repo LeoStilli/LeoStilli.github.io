@@ -381,6 +381,39 @@
     border-radius: 5px;
 }
 
+.event-image24 {
+    background-image: url("../images/Dentist.avif");
+    width: 300px;
+    height: 200px;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.event-image25 {
+    background-image: url("../images/SoulFood.jpg");
+    width: 300px;
+    height: 200px;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.event-image26 {
+    background-image: url("../images/Renoir.jpg");
+    width: 300px;
+    height: 200px;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
 .event-text {
     color: rgb(0, 0, 0);
 }
