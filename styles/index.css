@@ -414,6 +414,26 @@
     border-radius: 5px;
 }
 
+.event-image30 {
+    background-image: url("../images/Bordighera.jpeg");
+    width: 100%;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.event-image31 {
+    background-image: url("../images/Lessons.jpg");
+    width: 100%;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
 .event-text {
     color: white;
     text-align: center;
