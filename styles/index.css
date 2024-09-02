@@ -458,6 +458,26 @@
     border-radius: 5px;
 }
 
+.event-image34 {
+    background-image: url("../images/lunar.jpg");
+    width: 100%;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.event-image35 {
+    background-image: url("../images/Middleeast.jpg");
+    width: 100%;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
 .event-text {
     color: white;
     text-align: center;
