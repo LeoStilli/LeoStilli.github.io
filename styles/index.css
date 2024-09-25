@@ -478,6 +478,26 @@
     border-radius: 5px;
 }
 
+.event-image36 {
+    background-image: url("../images/Rasberry.jpg");
+    width: 100%;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.event-image37 {
+    background-image: url("../images/EdgarWoods.jpeg");
+    width: 100%;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
 .event-text {
     color: white;
     text-align: center;
