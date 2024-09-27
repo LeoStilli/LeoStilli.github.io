@@ -535,6 +535,17 @@
     border-radius: 5px;
 }
 
+.event-image38 {
+    background-image: url("../images/Coffee.jpg");
+    width: 300px;
+    height: 200px;
+    padding-bottom: 56.25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
 .event-text {
     color: rgb(0, 0, 0);
 }
